@@ -5,9 +5,9 @@ Cybersecurity student at Deakin University with hands-on experience
 across penetration testing, SOC operations, and digital forensics. 
 Ranked top 1% on TryHackMe globally.
 
-- TryHackMe: [thomazs](your link)
-- LinkedIn: [Thomas Bichtas](your link)
-- Medium: [thomazs06](your link)
+- TryHackMe: https://tryhackme.com/p/thomazs06
+- LinkedIn: https://www.linkedin.com/in/thomazs/
+- Medium: https://medium.com/@thomazs06
 
 ---
 
