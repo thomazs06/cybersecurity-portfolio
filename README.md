@@ -27,7 +27,7 @@ Ranked top 1% on TryHackMe globally.
 
 **Tools used:** Nmap, arp-scan, Searchsploit, Metasploit Framework  
 
-[View Full Report →](./Pentest-Report-BasicPentesting1-2026)
+[View Full Report →](./Pentest-Report-BasicPentesting1-2026.pdf)
 
 ---
 
