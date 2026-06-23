@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio — Thomas Bichtas
+# Cybersecurity Portfolio 
 
 ## About
 Cybersecurity student at Deakin University with hands-on experience 
@@ -30,9 +30,3 @@ Ranked top 1% on TryHackMe globally.
 [View Full Report →](./Pentest-Report-BasicPentesting1-2026.pdf)
 
 ---
-
-## Skills
-- Offensive: Nmap, Metasploit, Burp Suite, Hydra, SQLMap
-- Defensive / SOC: Splunk, Wireshark, Wazuh, Zeek, OpenCTI
-- Forensics: Autopsy, Volatility, Redline
-- OS: Kali Linux, Windows, Ubuntu
